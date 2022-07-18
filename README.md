@@ -1,6 +1,7 @@
 ### Hi, I'm Destin
 #### High School Student | Aspiring Astrophysicist
-![High School Student | Aspiring Astrophysicist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![High School Student | Aspiring Astrophysicist](![Uploading ClearWatchfulAstarte-max-1mb.gif…]()
+  )
 
 Current high school senior from Renton, WA 
 Aspiring Astrophysicist interested in Dark Matter QCD-Axions
