@@ -1,7 +1,8 @@
 ### Hi, I'm Destin
 #### High School Student | Aspiring Astrophysicist
-![High School Student | Aspiring Astrophysicist](![Uploading ClearWatchfulAstarte-max-1mb.gif…]()
-  )
+![High School Student | Aspiring Astrophysicist](https://user-images.githubusercontent.com/79768942/179445069-62acb132-91a6-45cf-8803-49bbb76fccf3.png)
+
+
 
 Current high school senior from Renton, WA 
 Aspiring Astrophysicist interested in Dark Matter QCD-Axions
@@ -10,7 +11,7 @@ Studying Schutz's "Geometrical Methods of Mathematical Physics"
 
 
 
-Skills: REACT / JS / HTML / CSS / Python / Java / C++ 
+Skills: REACT / JS / HTML / CSS / Markdown / Python / Java / C++ 
 
 
 
