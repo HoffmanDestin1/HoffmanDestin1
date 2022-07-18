@@ -4,10 +4,10 @@
 
 
 
-Current high school senior from Renton, WA 
-Aspiring Astrophysicist interested in Dark Matter QCD-Axions
-Markdown-based note-taking, machine learning, and scientific computation
-Studying Schutz's "Geometrical Methods of Mathematical Physics"
+* Current high school senior from Renton, WA 
+* Aspiring Astrophysicist interested in Dark Matter QCD-Axions
+* Markdown-based note-taking, machine learning, and scientific computation
+* Studying Schutz's "Geometrical Methods of Mathematical Physics"
 
 
 
