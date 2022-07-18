@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Destin
+### Hi, I'm Destin
 #### High School Student | Aspiring Astrophysicist
 ![High School Student | Aspiring Astrophysicist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
