@@ -1,6 +1,6 @@
 ### Hi, I'm Destin
 #### High School Student | Aspiring Astrophysicist
-![High School Student | Aspiring Astrophysicist](https://user-images.githubusercontent.com/79768942/179445069-62acb132-91a6-45cf-8803-49bbb76fccf3.png)
+![High School Student | Aspiring Astrophysicist](https://delmarmol.hms.harvard.edu/sites/delmarmol.hms.harvard.edu/files/images/coverArtboard%204_2%404x-8.png)
 
 
 
