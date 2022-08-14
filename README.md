@@ -1,13 +1,13 @@
 ### Hi, I'm Destin
-#### High School Student | Aspiring Astrophysicist
+#### High School Student | Aspiring Biochemist
 ![High School Student | Aspiring Astrophysicist](https://delmarmol.hms.harvard.edu/sites/delmarmol.hms.harvard.edu/files/images/coverArtboard%204_2%404x-8.png)
 
 
 
-* Current high school senior from Renton, WA 
-* Aspiring Astrophysicist interested in Dark Matter QCD-Axions
-* Markdown-based note-taking, machine learning, and scientific computation
-* Studying Schutz's "Geometrical Methods of Mathematical Physics"
+* Current high school senior from Renton, WA.
+* Aspiring Biochemist interested in the role of amyloids in neurodegenerative diseases such as Parkinson's Disease and Alzheimer's Disease.
+* Markdown-based note-taking, machine learning, and scientific computation.
+* I also enjoy theoretical astrophysics, neuroscience, chemistry, literature, and music theory.
 
 
 
